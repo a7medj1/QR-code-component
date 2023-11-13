@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(211, 223, 233);
+}
+
+.card{
+    width: 390px;
+    height: 600px;
+    background-color: #fff;
+    border-radius: 20px;
+    position: relative;
+    left: 600px;
+    top: 100px;
+}
+
+img{
+    width: 350px;
+    border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 18px;
+}
+
+.text{
+    position: relative;
+    top: 395px;
+    text-align: center;
+    font-family: poppins;
+}
+
+p{
+    font-size: 16px;
+    color: #b4a9a9;
+    padding: 15px;
+}
+
